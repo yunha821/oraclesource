@@ -1424,3 +1424,4 @@ FROM EMP e;
 
 
 SELECT * FROM emp;
+
